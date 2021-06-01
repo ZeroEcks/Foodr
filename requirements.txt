@@ -73,7 +73,7 @@ tropofycom
 mon==2.2.0
 typing==3.5.3.0
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 urwid==2.0.1
 waitress==1.0.2
 wcwidth==0.1.7
